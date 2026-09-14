@@ -1,0 +1,11 @@
+[
+  "tests/test_technologies.py::test_aioptions",
+  "tests/test_technologies.py::test_ecoptions",
+  "tests/test_technologies.py::test_madoptions",
+  "tests/test_technologies.py::test_socialmedia",
+  "tests/test_verticals.py::test_ca",
+  "tests/test_verticals.py::test_ft",
+  "tests/test_verticals.py::test_hc",
+  "tests/test_verticals.py::test_rae",
+  "tests/test_verticals.py::test_trading"
+]
